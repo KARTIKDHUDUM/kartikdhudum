@@ -1,0 +1,25 @@
+.main-table {
+    width: 100%;
+    table-layout: auto;
+    /* border: 1px solid; */
+
+}
+
+.main-table tr th {
+    /* border: 1px solid; */
+}
+
+.body-content{
+    font-size: 15px;
+    text-transform: initial;
+    color: #524e4e;
+    letter-spacing: 1px;
+    
+}
+
+.table-head-pr{
+    letter-spacing: 1.5px;
+}
+.table-data{
+    width: 100%;
+}
